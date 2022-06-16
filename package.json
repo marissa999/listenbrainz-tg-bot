@@ -1,0 +1,18 @@
+{
+  "name": "listenbrainz-tg-bot",
+  "version": "1.0.0",
+  "description": "Silly bot to query the list of recently listened songs from listenbrainz and to show them to your friends (or enemies) on telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "telegrambot",
+    "listenbrainz",
+    "musicbrainz",
+    "bot"
+  ],
+  "author": "marissa999",
+  "license": "AGPL-3.0-or-later"
+}
